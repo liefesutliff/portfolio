@@ -75,8 +75,8 @@ body {
 
 /* Hover for boxes */
 #lsm:hover, #occf:hover, #codmrandom:hover {
-  width: 390px;
-  height: 390px;
+  width: 385px;
+  height: 385px;
   box-shadow: 0px 0px 0px #F5F5F5;
   transition: 0.4s;
 }
